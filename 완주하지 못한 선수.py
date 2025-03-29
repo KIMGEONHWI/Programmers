@@ -1,4 +1,5 @@
 def solution(participant, completion):
+    
     hash_dict = dict()
     sumHash = 0
     
